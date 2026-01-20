@@ -1,7 +1,5 @@
-const posts = require("./database/posts.json");
-const users = require("./database/users.json");
+const contacts = require("./database/contact.json");
 
 module.exports = {
-  posts,
-  users,
+    contacts,
 };
